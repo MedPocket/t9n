@@ -1,2 +1,1 @@
-# trans-project
-Translation project
+# Translation project
