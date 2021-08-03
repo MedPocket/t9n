@@ -1,7 +1,22 @@
-# Mercury
-I started to translate in 2018. So I using this repository to save my projects.
-Hoping this can help you.
+# MedPocket T9N
+
+Translating text from one language into another.
+
+**MedPocket T9N** project starts from 2018.
+
+## Contributing
+
+- Nguyen Long Nhat
+- Nguyen Trung Hieu
+- Do Thi Thanh Thu
 
 ## License
+
 Copyright © **MedPocket**. All rights reserved.
-Licensed under the [CC0](LICENSE) license.
+
+Licensed under the [CC0-1.0](LICENSE) license.
+
+*Please bear in mind that we do not own copyrights to some software/books.
+We’re sharing this with our audience ONLY for educational purposes and we highly
+encourage our visitors to purchase original licensed software/books. If someone with
+copyrights wants us to remove some software/books, please contact us immediately.*
