@@ -2,7 +2,7 @@
 
 Translating text from one language into another.
 
-**MedPocket T9N** project starts from 2018.
+T9N project starts from 2018.
 
 ## Contributing
 
@@ -12,7 +12,7 @@ Translating text from one language into another.
 
 ## License
 
-Copyright © **MedPocket**. All rights reserved.
+Copyright &copy; MedPocket. All rights reserved.
 
 Licensed under the [CC0-1.0](LICENSE) license.
 
