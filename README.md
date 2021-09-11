@@ -4,12 +4,6 @@ Translating text from one language into another.
 
 ![t9n_project](t9n_project.png)
 
-## Contributing
-
-- Nguyen Long Nhat
-- Nguyen Trung Hieu
-- Do Thi Thanh Thu
-
 ## License
 
 Copyright &copy; MedPocket. All rights reserved.
