@@ -2,7 +2,7 @@
 
 Translating text from one language into another.
 
-T9N project starts from 2018.
+![t9n_project](t9n_project.png)
 
 ## Contributing
 
