@@ -2,7 +2,7 @@
 
 Translating text from one language into another.
 
-![t9n_project](t9n_project.png)
+![t9n_project](t9n_project.jpg)
 
 ## License
 
